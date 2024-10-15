@@ -66,6 +66,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## 📰 News
+- [Rosetta Code] (https://rosettacode.org/wiki/Rosetta_Code): It's a platform that shows how to solve the same problem in multiple programming languages, helping programmers compare and learn new languages in a practical way.
 - [ACM TechNews](http://technews.acm.org) : TechNews
 - [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
